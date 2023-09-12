@@ -1,0 +1,24 @@
+-- Gruruh imtixon uchun 
+    --create group
+    --at_this group students
+    --create tests
+    --create timeout tests
+    --5 minut uchun - 5 balldan
+
+--receive files
+    create ball
+    findAll Below 60 ball
+
+--students
+    find yiqildi status
+        -- find  Below 60 ball
+---------------------------------------------------------------------------------------
+auth da faqatgini ustoz guruh qilaoladi va odam qosha oladi
+
+student faqatgina ozini guruhini imtihon fileni kora oladi va file qosha oladi
+
+teacher 
+    --/teacher/create == bu bilan imtixon fileni joylaydi
+    --"/teacher/Ball" == bu bilan ism sharif orqali ball qosha oladi
+    -- /teacher/files == bu bilan guruh raqamini kiritib osha guruhdagi odamlar yuborgan fileni kora oladi
+
