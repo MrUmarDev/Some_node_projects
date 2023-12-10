@@ -1,0 +1,7 @@
+.Navbar +
+.Layouts
+.AdminPanel[
+    .AddCategory
+    .AddBook
+    .AddAuthor
+]
